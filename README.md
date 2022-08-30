@@ -7,7 +7,7 @@ O desafio nos pede para modelar um projeto conceitual de um sistema de Ecommmerc
 
 #### Começando pela tabela cliente
 
-* Para determinar se o cliente é CPF ou CNPJ existe um valor, entre seus valores, booleano. Na aplicação o cliente deverá escolher se é CPF (NÃO ATIVA a checkbox) ou CNPJ (ATIVA a checkbox). O dado que vamos guardar é TRUE(1) para CPF ou FALSE(0) para CNPJ.
+* Para determinar se o cliente é CPF ou CNPJ existe um valor, entre seus valores, booleano. Na aplicação o cliente deverá escolher se é CPF (NÃO ATIVA a checkbox) ou CNPJ (ATIVA a checkbox). O dado que vamos guardar é FALSE(0) para CPF ou TRUE(1) para CNPJ.
 * num_doc vai registrar ou o número do CPF, ou o número do CNPJ, após o usuário idenficar na aplicação qual tipo de cliente ele é.
 
 
