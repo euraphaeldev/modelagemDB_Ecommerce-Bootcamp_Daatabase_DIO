@@ -15,7 +15,7 @@ O desafio nos pede para modelar um projeto conceitual de um sistema de Ecommmerc
 
 * A aplicação irá determinar a forma escolhida.
 * A Tabela cartao_de_credito irá salvar as informações do cartão ou cartões utilizados e o ID irá identificar cada um.
-* Clientes podem ter vários cartões de crédito cadastrados e um cartão pode ser cadastrador por vários cliente, construindo assim um relacionamento N:M.
+* Clientes podem ter vários cartões de crédito cadastrados e um cartão pode ser cadastrador por vários clienteS, construindo assim um relacionamento N:M.
 * Na tabela "forma_pgto", temos uma FK que identifica qual o cartão de crédito foi utilizado pelo cliente através do seu ID.
 
 #### Tabela entrega
